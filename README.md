@@ -1,13 +1,21 @@
 Presentación
 
 Universidad: Universidad Tecnológica de Panamá (UTP)
+
 Facultad: FISC
+
 Carrera: Licenciatura en Ingeniería en Sistemas Computacionales
+
 Asignatura: HPA III
+
 Profesor: Irina Fong
+
 Estudiante: Michael Hunt
+
 Fecha: 09/07/2026
+
 Laboratorio #2: Modelado de Clases y Gestión de Atributos en C# (.NET)
+
 Descripción general
 
 Este repositorio contiene el desarrollo del Laboratorio #2, enfocado en la introducción y aplicación de los fundamentos de la Programación Orientada a Objetos (POO) mediante aplicaciones de consola desarrolladas en C# y .NET.
