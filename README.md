@@ -70,7 +70,25 @@ Después, el valor introducido se envía como argumento al método:
 <img width="970" height="112" alt="image" src="https://github.com/user-attachments/assets/511f50c9-0fb9-466b-a9eb-716c3469cde7" />
 Este ejercicio demuestra cómo los métodos pueden recibir información externa y utilizarla para generar resultados dinámicos.
 
+Problema 3: Encapsulamiento, Variables de Instancia, Propiedades y Constructores
 
+El tercer ejercicio profundiza en los principios fundamentales de la Programación Orientada a Objetos.
+
+Conceptos aplicados
+Encapsulamiento.
+Ocultamiento de información.
+Variables o campos de instancia.
+Modificadores de acceso private y public.
+Propiedades.
+Métodos get y set.
+Constructores.
+Inicialización de objetos.
+Validación de datos.
+Manejo de posibles errores y excepciones.
+Variables privadas
+
+El estado interno del objeto se protege utilizando un campo privado:
+private string nombreCurso;
 
 
 
