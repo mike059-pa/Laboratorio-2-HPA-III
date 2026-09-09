@@ -1,3 +1,12 @@
+Presentación
+
+Universidad: Universidad Tecnológica de Panamá (UTP)
+Facultad: FISC
+Carrera: Licenciatura en Ingeniería en Sistemas Computacionales
+Asignatura: HPA III
+Profesor: Irina Fong
+Estudiante: Michael Hunt
+Fecha: 09/07/2026
 Laboratorio #2: Modelado de Clases y Gestión de Atributos en C# (.NET)
 Descripción general
 
@@ -88,7 +97,52 @@ Manejo de posibles errores y excepciones.
 Variables privadas
 
 El estado interno del objeto se protege utilizando un campo privado:
-private string nombreCurso;
+<img width="943" height="85" alt="image" src="https://github.com/user-attachments/assets/5c2d1daf-7642-42b8-ba2d-e538d4723c09" />
+
+Al utilizar private, este atributo no puede ser modificado directamente desde otras clases.
+
+Propiedades públicas
+
+Para permitir un acceso controlado al atributo, se utiliza una propiedad pública:
+<img width="953" height="328" alt="image" src="https://github.com/user-attachments/assets/7cbc1f37-3835-43bd-b079-83894fb3e9ef" />
+
+De esta manera, el valor puede ser consultado mediante get y modificado mediante set.
+
+Constructor personalizado
+
+También se implementa un constructor para inicializar el objeto al momento de su creación:
+<img width="959" height="173" alt="image" src="https://github.com/user-attachments/assets/4df9f4c9-a60f-40ee-90d9-5ee740217d04" />
+El objeto puede instanciarse proporcionando el valor inicial:
+
+<img width="949" height="78" alt="image" src="https://github.com/user-attachments/assets/697f39a7-dd96-4909-8739-e59668eb17f0" />
+
+Validación y control de errores
+
+Durante la interacción con el usuario, se aplican validaciones para evitar el procesamiento de datos incorrectos o vacíos. Cuando es necesario realizar conversiones de tipos, se puede utilizar un control adecuado de excepciones o métodos de conversión seguros para evitar errores durante la ejecución.
+
+Por ejemplo:
+<img width="938" height="261" alt="image" src="https://github.com/user-attachments/assets/11636f80-a19f-41f9-bfed-69d049985f3b" />
+
+Conclusión
+
+Este laboratorio permite establecer una base sólida para el desarrollo de aplicaciones utilizando el paradigma de Programación Orientada a Objetos en C#. Los ejercicios desarrollados muestran la evolución desde la creación de una clase básica hasta la implementación de mecanismos más completos de encapsulamiento, propiedades y constructores.
+
+Los principales conocimientos adquiridos incluyen:
+
+Creación e instanciación de clases.
+Uso de métodos.
+Paso de parámetros y argumentos.
+Lectura de información desde la consola.
+Formato dinámico de salida.
+Aplicación de PascalCase.
+Encapsulamiento y ocultamiento de información.
+Uso de campos privados.
+Implementación de propiedades con get y set.
+Uso de constructores.
+Validación de datos y control de posibles errores.
+
+
+
 
 
 
