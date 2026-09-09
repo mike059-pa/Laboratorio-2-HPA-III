@@ -35,4 +35,43 @@ Se crea una clase denominada LibroCalificacion que contiene un método público 
 
 <img width="944" height="172" alt="image" src="https://github.com/user-attachments/assets/8f67e757-bb41-4c27-9b7f-2183105327f8" />
 
+Posteriormente, se crea una instancia de la clase dentro del método Main:
+
+<img width="959" height="98" alt="image" src="https://github.com/user-attachments/assets/748386a2-76ed-4392-bd0a-8de8d50862d0" />
+
+Finalmente, se invoca el método mediante el operador punto:
+
+<img width="991" height="121" alt="image" src="https://github.com/user-attachments/assets/9e33013e-2e7c-4400-a20b-be8f5a49acfa" />
+
+Este ejercicio permite comprender la relación entre una clase, que funciona como un modelo, y un objeto, que representa una instancia creada a partir de dicha clase.
+
+Problema 2: Métodos con Parámetros y Formato de Salida
+
+El segundo ejercicio amplía el uso de métodos mediante la incorporación de parámetros.
+
+Conceptos aplicados
+Métodos con parámetros.
+Paso de argumentos.
+Entrada de datos mediante Console.ReadLine().
+Formato de salida.
+Marcadores de posición por índice.
+Uso de caracteres de escape como \n.
+Implementación
+
+Se implementa un método que recibe el nombre de un curso como parámetro:
+<img width="960" height="164" alt="image" src="https://github.com/user-attachments/assets/a8b83fc7-0078-4f69-bab4-1a617d11fdd9" />
+
+El usuario puede ingresar el nombre del curso mediante la consola:
+
+<img width="943" height="116" alt="image" src="https://github.com/user-attachments/assets/db9e887c-c129-48e6-8bac-e6020a5610b2" />
+
+Después, el valor introducido se envía como argumento al método:
+
+<img width="970" height="112" alt="image" src="https://github.com/user-attachments/assets/511f50c9-0fb9-466b-a9eb-716c3469cde7" />
+Este ejercicio demuestra cómo los métodos pueden recibir información externa y utilizarla para generar resultados dinámicos.
+
+
+
+
+
 
